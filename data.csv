@@ -1,0 +1,10 @@
+user_id,product_id,product_name,rating,image_url
+1,101,Wireless Mouse,4,https://m.media-amazon.com/images/I/61LtuGzXeaL._SX679_.jpg
+1,102,Keyboard,5,https://m.media-amazon.com/images/I/61n+IlgRv8L._SX679_.jpg
+2,101,Wireless Mouse,5,https://m.media-amazon.com/images/I/61LtuGzXeaL._SX679_.jpg
+2,103,Laptop Stand,3,https://m.media-amazon.com/images/I/71k3gOik46L._SX679_.jpg
+3,104,Headphones,4,https://m.media-amazon.com/images/I/71D9ImsvEtL._SX679_.jpg
+3,102,Keyboard,2,https://m.media-amazon.com/images/I/61n+IlgRv8L._SX679_.jpg
+4,103,Laptop Stand,5,https://m.media-amazon.com/images/I/71k3gOik46L._SX679_.jpg
+4,104,Headphones,3,https://m.media-amazon.com/images/I/71D9ImsvEtL._SX679_.jpg
+5,105,Webcam,4,https://m.media-amazon.com/images/I/61CcfwL9l7L._SX679_.jpg
