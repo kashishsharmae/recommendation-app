@@ -63,7 +63,7 @@ The app will open in your browser at http://localhost:8501.
 
 ☁️ Live App
 Deployed on Streamlit Cloud 🚀
-🔗 https://kashishsharmae-recommendation-app.streamlit.app
+🔗 https://kashishsharmae-recommendation-app-app-pjycmu.streamlit.app/
 
 👨‍💻 Author
 Kashish Sharma
